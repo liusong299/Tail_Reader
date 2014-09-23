@@ -1,0 +1,201 @@
+  XTC/RUN00
+  XTC/RUN01
+  XTC/RUN02
+  XTC/RUN03
+  XTC/RUN04
+  XTC/RUN05
+  XTC/RUN06
+  XTC/RUN07
+  XTC/RUN08
+  XTC/RUN09
+  XTC/RUN10
+  XTC/RUN11
+  XTC/RUN12
+  XTC/RUN13
+  XTC/RUN14
+  XTC/RUN15
+  XTC/RUN16
+  XTC/RUN17
+  XTC/RUN18
+  XTC/RUN19
+  XTC/RUN20
+  XTC/RUN21
+  XTC/RUN22
+  XTC/RUN23
+  XTC/RUN24
+  XTC/RUN25
+  XTC/RUN26
+  XTC/RUN27
+  XTC/RUN28
+  XTC/RUN29
+  XTC/RUN30
+  XTC/RUN31
+  XTC/RUN32
+  XTC/RUN33
+  XTC/RUN34
+  XTC/RUN35
+  XTC/RUN36
+  XTC/RUN37
+  XTC/RUN38
+  XTC/RUN39
+  XTC/RUN40
+  XTC/RUN41
+  XTC/RUN42
+  XTC/RUN43
+  XTC/RUN44
+  XTC/RUN45
+  XTC/RUN46
+  XTC/RUN47
+  XTC/RUN48
+  XTC/RUN49
+  XTC/RUN50
+  XTC/RUN51
+  XTC/RUN52
+  XTC/RUN53
+  XTC/RUN54
+  XTC/RUN55
+  XTC/RUN56
+  XTC/RUN57
+  XTC/RUN58
+  XTC/RUN59
+  XTC/RUN60
+  XTC/RUN61
+  XTC/RUN62
+  XTC/RUN63
+  XTC/RUN64
+  XTC/RUN65
+  XTC/RUN66
+  XTC/RUN67
+  XTC/RUN68
+  XTC/RUN69
+  XTC/RUN70
+  XTC/RUN71
+  XTC/RUN72
+  XTC/RUN73
+  XTC/RUN74
+  XTC/RUN75
+  XTC/RUN76
+  XTC/RUN77
+  XTC/RUN78
+  XTC/RUN79
+  XTC/RUN80
+  XTC/RUN81
+  XTC/RUN82
+  XTC/RUN83
+  XTC/RUN84
+  XTC/RUN85
+  XTC/RUN86
+  XTC/RUN87
+  XTC/RUN88
+  XTC/RUN89
+  XTC/RUN90
+  XTC/RUN91
+  XTC/RUN92
+  XTC/RUN93
+  XTC/RUN94
+  XTC/RUN95
+  XTC/RUN96
+  XTC/RUN97
+  XTC/RUN98
+  XTC/RUN99
+XTC/RUN00/frame0.xtc
+XTC/RUN00/frame1.xtc
+XTC/RUN01/frame0.xtc
+XTC/RUN02/frame0.xtc
+XTC/RUN03/frame0.xtc
+XTC/RUN04/frame0.xtc
+XTC/RUN05/frame0.xtc
+XTC/RUN06/frame0.xtc
+XTC/RUN07/frame0.xtc
+XTC/RUN08/frame0.xtc
+XTC/RUN09/frame0.xtc
+XTC/RUN10/frame0.xtc
+XTC/RUN11/frame0.xtc
+XTC/RUN12/frame0.xtc
+XTC/RUN13/frame0.xtc
+XTC/RUN14/frame0.xtc
+XTC/RUN15/frame0.xtc
+XTC/RUN16/frame0.xtc
+XTC/RUN17/frame0.xtc
+XTC/RUN18/frame0.xtc
+XTC/RUN19/frame0.xtc
+XTC/RUN20/frame0.xtc
+XTC/RUN21/frame0.xtc
+XTC/RUN22/frame0.xtc
+XTC/RUN23/frame0.xtc
+XTC/RUN24/frame0.xtc
+XTC/RUN25/frame0.xtc
+XTC/RUN26/frame0.xtc
+XTC/RUN27/frame0.xtc
+XTC/RUN28/frame0.xtc
+XTC/RUN29/frame0.xtc
+XTC/RUN30/frame0.xtc
+XTC/RUN31/frame0.xtc
+XTC/RUN32/frame0.xtc
+XTC/RUN33/frame0.xtc
+XTC/RUN34/frame0.xtc
+XTC/RUN35/frame0.xtc
+XTC/RUN36/frame0.xtc
+XTC/RUN37/frame0.xtc
+XTC/RUN38/frame0.xtc
+XTC/RUN39/frame0.xtc
+XTC/RUN40/frame0.xtc
+XTC/RUN41/frame0.xtc
+XTC/RUN42/frame0.xtc
+XTC/RUN43/frame0.xtc
+XTC/RUN44/frame0.xtc
+XTC/RUN45/frame0.xtc
+XTC/RUN46/frame0.xtc
+XTC/RUN47/frame0.xtc
+XTC/RUN48/frame0.xtc
+XTC/RUN49/frame0.xtc
+XTC/RUN50/frame0.xtc
+XTC/RUN51/frame0.xtc
+XTC/RUN52/frame0.xtc
+XTC/RUN53/frame0.xtc
+XTC/RUN54/frame0.xtc
+XTC/RUN55/frame0.xtc
+XTC/RUN56/frame0.xtc
+XTC/RUN57/frame0.xtc
+XTC/RUN58/frame0.xtc
+XTC/RUN59/frame0.xtc
+XTC/RUN60/frame0.xtc
+XTC/RUN61/frame0.xtc
+XTC/RUN62/frame0.xtc
+XTC/RUN63/frame0.xtc
+XTC/RUN64/frame0.xtc
+XTC/RUN65/frame0.xtc
+XTC/RUN66/frame0.xtc
+XTC/RUN67/frame0.xtc
+XTC/RUN68/frame0.xtc
+XTC/RUN69/frame0.xtc
+XTC/RUN70/frame0.xtc
+XTC/RUN71/frame0.xtc
+XTC/RUN72/frame0.xtc
+XTC/RUN73/frame0.xtc
+XTC/RUN74/frame0.xtc
+XTC/RUN75/frame0.xtc
+XTC/RUN76/frame0.xtc
+XTC/RUN77/frame0.xtc
+XTC/RUN78/frame0.xtc
+XTC/RUN79/frame0.xtc
+XTC/RUN80/frame0.xtc
+XTC/RUN81/frame0.xtc
+XTC/RUN82/frame0.xtc
+XTC/RUN83/frame0.xtc
+XTC/RUN84/frame0.xtc
+XTC/RUN85/frame0.xtc
+XTC/RUN86/frame0.xtc
+XTC/RUN87/frame0.xtc
+XTC/RUN88/frame0.xtc
+XTC/RUN89/frame0.xtc
+XTC/RUN90/frame0.xtc
+XTC/RUN91/frame0.xtc
+XTC/RUN92/frame0.xtc
+XTC/RUN93/frame0.xtc
+XTC/RUN94/frame0.xtc
+XTC/RUN95/frame0.xtc
+XTC/RUN96/frame0.xtc
+XTC/RUN97/frame0.xtc
+XTC/RUN98/frame0.xtc
+XTC/RUN99/frame0.xtc
